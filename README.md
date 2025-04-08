@@ -34,4 +34,4 @@ This script is for educational/demo purposes. Always test on a staging server be
 
 ---
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Ela
