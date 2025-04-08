@@ -11,6 +11,10 @@ This bash script automates the initial setup and hardening of CSF (ConfigServer 
 - Ensures CSF & LFD start on boot
 - Provides notes for manually allowing/denying IPs
 
+## ⚡ IMPORTANT ⚡
+
+ Before running this file, please open the file and change the value of CC_DENY = "CN,IN,BR" to the countries you want to restrict.
+ 
 ## 📦 Usage
 
 ```bash
